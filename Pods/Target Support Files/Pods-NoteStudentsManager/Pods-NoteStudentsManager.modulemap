@@ -1,0 +1,6 @@
+framework module Pods_NoteStudentsManager {
+  umbrella header "Pods-NoteStudentsManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
